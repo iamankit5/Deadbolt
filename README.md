@@ -21,7 +21,7 @@ Visit our interactive web dashboard to monitor your system's security status in 
   <em>Click the image to access the live dashboard</em>
 </p>
 
-[https://arnob743.github.io/webpage-for-deadbolt/](https://arnob743.github.io/webpage-for-deadbolt/)
+
 
 ## 🚀 **Tech Stack**
 
